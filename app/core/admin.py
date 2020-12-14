@@ -42,7 +42,7 @@ class UserAdmin(BaseUserAdmin):
                 "password1",
                 "password2"
             )
-        })
+        }),
     )
     
 
